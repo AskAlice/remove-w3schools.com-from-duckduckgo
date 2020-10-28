@@ -2,7 +2,7 @@
 // @name         Remove w3schools.com from duckduckgo
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  A userscript to nuke w3schools links from search results
 // @author       You
 // @match        https://duckduckgo.com/?q=*
 // @grant        none
